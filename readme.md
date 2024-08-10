@@ -2,6 +2,11 @@
 
 [TOC]
 
+# Usage
+
+- `app.py`：命令行界面提问，流式输出
+- `test.py`：验证测试数据正确率
+
 ## 数据采集
 
 - [华东师范大学计算机科学与技术学院 - 学院概况 - 学院简介](http://www.cs.ecnu.edu.cn/xyjj/list.htm)
@@ -339,7 +344,6 @@ print(f'Accuracy = {correct/num_questions * 100}%')
 
 > acc: 100%
 见`res.txt`
-
 
 
 
