@@ -2,7 +2,7 @@
 
 [TOC]
 
-# Usage
+## Usage
 
 - `app.py`：命令行界面提问，流式输出
 - `test.py`：验证测试数据正确率
