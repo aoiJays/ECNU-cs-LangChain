@@ -1,0 +1,226 @@
+Loading Documents ...
+Loading Successfully!
+Buiding Vector DB ...
+Buiding Successfully!
+Start To Query
+Query Completely
+Start To Validation
+Result:
+Example 0:
+Question: 华东师范大学计算机科学与技术学院的前身是什么？
+Real Answer: 华东师范大学计算机科学与技术学院的前身是1979年创建的计算机科学系
+Predicted Answer: 华东师范大学计算机科学与技术学院的前身是1979年创建的计算机科学系。
+Predicted Grade: CORRECT
+
+Example 1:
+Question: 计算机科学与技术学院现有正高职称多少人？
+Real Answer: 计算机科学与技术学院现有正高职称27人
+Predicted Answer: 计算机科学与技术学院现有正高职称27人。
+Predicted Grade: CORRECT
+
+Example 2:
+Question: 学院现有在校本科生、全日制硕士研究生和博士研究生各有多少人？
+Real Answer: 本科生约500人，全日制硕士研究生约400人，博士研究生约120人
+Predicted Answer: 学院现有在校本科生约500人，全日制硕士研究生约400人，博士研究生约120人。
+Predicted Grade: CORRECT
+
+Example 3:
+Question: 学院共有几次晋级ICPC国际大学生程序设计竞赛全球总决赛，分别是哪几年？
+Real Answer: 共五次，分别是2007年、2010年、2018年、2019年和2020年
+Predicted Answer: 学院共五次晋级ICPC国际大学生程序设计竞赛全球总决赛，分别是2007年、2010年、2018年、2019年和2020年。
+Predicted Grade: CORRECT
+
+Example 4:
+Question: 学院在未来的发展目标是什么？
+Real Answer: 学院致力于建设成为世界一流的计算机科学与技术学院
+Predicted Answer: 学院未来发展目标是建设成为世界一流学院。
+Predicted Grade: CORRECT
+
+Explanation: The student's answer is not entirely complete but captures the essence of the true answer. The true answer specifies that the college aims to be a world-class institution specifically in computer science and technology, while the student's answer omits this detail. However, the student's answer does not conflict with the true answer and correctly identifies the goal of becoming a world-class institution. Therefore, the grade is CORRECT.
+
+Example 5:
+Question: 华东师范大学的计算机科学系成立于哪一天？
+Real Answer: 1979年5月7日
+Predicted Answer: 华东师范大学的计算机科学系成立于1979年5月7日。
+Predicted Grade: CORRECT
+
+Example 6:
+Question: 1981年，国家教委将计算机科学系的原有的硕士点规范为？ 1981年1981年1981年
+Real Answer: 计算机应用技术硕士点
+Predicted Answer: 1981年，国家教委将计算机科学系的原有硕士点规范为计算机应用技术硕士点。
+Predicted Grade: CORRECT
+
+Example 7:
+Question: 1985年，华东师范大学的计算机科学系新增了哪个硕士点？ 1985年1985年1985年
+Real Answer: 计算机软件与理论硕士点
+Predicted Answer: 1985年，华东师范大学的计算机科学系新增了计算机软件与理论硕士点。
+Predicted Grade: CORRECT
+
+Example 8:
+Question: 1993年，计算机科学系加入了哪个学院？ 1993年1993年1993年
+Real Answer: 理工学院
+Predicted Answer: 1993年，计算机科学系加入了理工学院。
+Predicted Grade: CORRECT
+
+Example 9:
+Question: 1998年，系统科学研究所的哪个专业博士点由数学系并入了计算机科学系？ 1998年1998年1998年
+Real Answer: 系统分析与集成专业博士点
+Predicted Answer: 1998年，系统科学研究所的系统分析与集成专业博士点由数学系并入了计算机科学系。
+Predicted Grade: CORRECT
+
+Example 10:
+Question: 1999年，计算机科学系更名为什么？ 1999年1999年1999年
+Real Answer: 计算机科学与技术系
+Predicted Answer: 1999年，计算机科学系更名为计算机科学与技术系。
+Predicted Grade: CORRECT
+
+Example 11:
+Question: 2001年，计算机科学技术系加入了哪个学院？ 2001年2001年2001年
+Real Answer: 信息科学与技术学院
+Predicted Answer: 2001年，计算机科学技术系加入了信息科学与技术学院。
+Predicted Grade: CORRECT
+
+Example 12:
+Question: 2003年，华东师范大学的计算机科学与技术系增加了哪个一级学科博士点和专业硕士点？ 2003年2003年2003年
+Real Answer: 系统科学一级学科博士点和计算机系统结构专业硕士点
+Predicted Answer: 2003年，华东师范大学的计算机科学与技术系增加了系统科学一级学科博士点和计算机系统结构专业硕士点。
+Predicted Grade: CORRECT
+
+Example 13:
+Question: 2006年，华东师范大学的计算机科学与技术系新增了哪个二级学科博士点？ 2006年2006年2006年
+Real Answer: 计算机应用技术二级学科博士点
+Predicted Answer: 2006年，华东师范大学的计算机科学与技术系新增了计算机应用技术二级学科博士点。
+Predicted Grade: CORRECT
+
+Example 14:
+Question: 2010年，华东师范大学的计算机科学与技术系新增了哪个一级学科博士点？ 2010年2010年2010年
+Real Answer: 计算机科学与技术一级学科博士点
+Predicted Answer: 2010年，华东师范大学的计算机科学与技术系新增了计算机科学与技术一级学科博士点。
+Predicted Grade: CORRECT
+
+Example 15:
+Question: 2012年，华东师范大学的计算机科学与技术系新增了什么？ 2012年2012年2012年
+Real Answer: 计算机科学与技术一级学科博士后流动站
+Predicted Answer: 2012年，华东师范大学增设计算机科学与技术一级学科博士后流动站。
+Predicted Grade: CORRECT
+
+Example 16:
+Question: 2015年，计算机科学技术系与软件学院合并后成立了什么学院？ 2015年2015年2015年
+Real Answer: 计算机科学与软件工程学院
+Predicted Answer: 2015年，计算机科学技术系与软件学院合并后成立了计算机科学与软件工程学院。
+Predicted Grade: CORRECT
+
+Example 17:
+Question: 2015年，计算机科学技术系与哪个学院合并？ 2015年2015年2015年
+Real Answer: 软件学院
+Predicted Answer: 2015年，计算机科学技术系与软件工程学院合并。
+Predicted Grade: CORRECT
+
+The student's answer is correct because "软件工程学院" (Software Engineering College) is essentially the same as "软件学院" (Software College). The extra mention of "2015年" in the student's answer does not conflict with the question or the true answer and can be ignored.
+
+Example 18:
+Question: 2019年7月6日，华东师范大学成立了哪个学院？ 2019年7月6日2019年7月6日2019年7月6日
+Real Answer: 计算机科学与技术学院
+Predicted Answer: 2019年7月6日，华东师范大学成立了计算机科学与技术学院。
+Predicted Grade: CORRECT
+
+Example 19:
+Question: 2023年5月7日，哪些学院合并组成新的计算机科学与技术学院？ 2023年5月7日2023年5月7日2023年5月7日
+Real Answer: 上海智能教育研究院与计算机科学与技术学院
+Predicted Answer: 上海智能教育研究院与计算机科学与技术学院合并，组建新的计算机科学与技术学院。
+Predicted Grade: CORRECT
+
+Example 20:
+Question: 硕士研究生的基本学习年限和最长学习年限分别是多少年？
+Real Answer: 3年，5年
+Predicted Answer: 硕士研究生的基本学习年限为3年，最长学习年限为5年。
+Predicted Grade: CORRECT
+
+Example 21:
+Question: 硕士研究生的总学分要求是多少？
+Real Answer: 硕士研究生的总学分要求是23学分
+Predicted Answer: 硕士研究生的总学分要求是23学分。
+Predicted Grade: CORRECT
+
+Example 22:
+Question: 学位公共课（必修）需要修读多少学分？
+Real Answer: 学位公共课（必修）需要修读6学分
+Predicted Answer: 学位公共课（必修）需要修读6学分。
+Predicted Grade: CORRECT
+
+Example 23:
+Question: 跨一级学科课程需要修读多少学分？
+Real Answer: 跨一级学科课程需要修读2学分
+Predicted Answer: 跨一级学科课程需要修读2学分。
+Predicted Grade: CORRECT
+
+Example 24:
+Question: 跨学科入学的研究生需要如何处理补修课程？
+Real Answer: 跨学科入学的研究生应当在导师指导下补修本学科本科专业的有关课程
+Predicted Answer: 跨学科入学的研究生应在导师指导下补修本学科本科专业的有关课程，所得学分不计入培养方案总学分。
+Predicted Grade: CORRECT
+
+Example 25:
+Question: 补修课程的学分是否计入培养方案的总学分？
+Real Answer: 补修课程的学分记为非学位课程学分，不计入培养方案的总学分
+Predicted Answer: 补修课程的学分不计入培养方案的总学分。
+Predicted Grade: CORRECT
+
+The student's answer is factually accurate, even though it doesn't provide the full detail that the true answer does. The student correctly states that the credits from remedial courses are not counted toward the total credits required for the degree program. The true answer simply provides additional information about how these credits are categorized (as non-degree course credits), but this does not conflict with the student's answer.
+
+Example 26:
+Question: 港澳台硕士生是否需要修读思想政治理论课？
+Real Answer: 港澳台硕士生可免修思想政治理论课
+Predicted Answer: 港澳台硕士生可免修思想政治理论课。
+Predicted Grade: CORRECT
+
+Example 27:
+Question: 港澳台硕士生可以用什么课程代替思想政治理论课？
+Real Answer: 港澳台硕士生可以用修读《中国概况》代替思想政治理论课
+Predicted Answer: 港澳台硕士生可以用《中国概况》课程代替思想政治理论课。
+Predicted Grade: CORRECT
+
+Example 28:
+Question: 国际留学硕士生可以免修哪些课程？
+Real Answer: 国际留学硕士生可以免修思想政治理论课和第一外国语
+Predicted Answer: 国际留学硕士生可以免修思想政治理论课、第一外国语。
+Predicted Grade: CORRECT
+
+Example 29:
+Question: 国际留学硕士生需要修读哪些课程来代替被免修的课程？
+Real Answer: 国际留学硕士生需要修读《中国概况》或《中国文明导论》和汉语课程等有关课程来代替被免修的课程
+Predicted Answer: 国际留学硕士生需修读《中国概况》或《中国文明导论》和汉语课程等有关课程，代替被免修的思想政治理论课、第一外国语。
+Predicted Grade: CORRECT
+
+Example 30:
+Question: 以外语为专业教学语言的留学生在毕业时，中文能力至少需要达到什么水平？
+Real Answer: 以外语为专业教学语言的留学生在毕业时，中文能力至少需要达到《国际汉语能力标准》三级水平
+Predicted Answer: 以外语为专业教学语言的留学生毕业时，中文能力应当至少达到《国际汉语能力标准》三级水平。
+Predicted Grade: CORRECT
+
+Example 31:
+Question: 硕士研究生的开题报告在哪个学年进行？
+Real Answer: 开题报告安排在第二学年的第一学期
+Predicted Answer: 硕士研究生的开题报告在第二学年的第一学期进行。
+Predicted Grade: CORRECT
+
+Example 32:
+Question: 中期进展报告在哪个学年进行？
+Real Answer: 中期进展报告安排在第二学年的第二学期
+Predicted Answer: 中期进展报告在第二学年的第二学期进行。
+Predicted Grade: CORRECT
+
+Example 33:
+Question: 中期考核在哪个学年进行？
+Real Answer: 中期考核安排在第三学年的第一学期
+Predicted Answer: 中期考核在第三学年的第一学期进行。
+Predicted Grade: CORRECT
+
+Example 34:
+Question: 基本文献阅读能力考核、学术活动和实践环节在哪些学期进行？
+Real Answer: 基本文献阅读能力考核、学术活动和实践环节在第三、四、五学期进行
+Predicted Answer: 基本文献阅读能力考核、学术活动、实践环节在第三、四、五学期进行。
+Predicted Grade: CORRECT
+
+
+Accuracy = 100.0%
