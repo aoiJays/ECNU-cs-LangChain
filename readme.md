@@ -1,7 +1,6 @@
 # 基于LangChain和大语言模型的本地知识库问答
 
-[TOC]
-
+![](./demo.gif)
 ## Usage
 ```bash
 pip install -r requirements.txt
