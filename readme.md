@@ -3,6 +3,9 @@
 [TOC]
 
 ## Usage
+```bash
+pip install -r requirements.txt
+```
 
 - `app.py`：命令行界面提问，流式输出
 - `test.py`：验证测试数据正确率
